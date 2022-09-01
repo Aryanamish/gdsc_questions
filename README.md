@@ -4,6 +4,12 @@ Google developer club questions
 
 ### [Question 1](question_1/question.md)
 
-### [Question 2](question_2/question.md) (Make sure to add the [image](question_2/rainwater1.png))
+[test Case](question_1/testCases)
+
+### [Question 2](question_2/question.md)
+
+[test case](question_2/testCases)
+
+###### (Make sure to add the [image](question_2/rainwater1.png))
 
 ### [Question 3](question_3/question.md)
