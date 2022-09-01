@@ -14,7 +14,7 @@ arr[] = {3,0,0,2,0,4}
 10
 **Explanation:**
 
-![Rain water](../rainwater1.png)
+![Rain water](rainwater1.png)
 
 ### Example 2
 
