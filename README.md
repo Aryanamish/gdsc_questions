@@ -2,7 +2,7 @@
 
 Google developer club questions
 
-##Copy Paste the raw Text of the readme files it will Auto format on hackerrank
+## Copy Paste the raw Text of the readme files it will Auto format on hackerrank
 
 ### [Question 1](question_1/question.md)
 
